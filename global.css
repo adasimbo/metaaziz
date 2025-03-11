@@ -15,14 +15,14 @@ body {
  }
  #learnmore-link {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
-    padding: 10px 20px;
-    background-color: white;
-    color: black;
+    bottom: 30px;
+    right: 142px;
+    padding: 5px 20px;
+    background-color: rgb(54, 52, 52);
+    color: white;
     text-decoration: none;
     font-size: 16px;
-    border-radius: 8px;
+    border-radius: 0px;
     font-family: "Outfit", sans-serif;
  }
  #text1{
@@ -31,11 +31,25 @@ bottom: 60px;
 right: 20px;
 margin: 0;
 background-color: rgba(red, green, blue, alpha);
-color: black;
+color: rgb(54, 52, 52);
 font-size: 24px;
 border: radius 8px; 
 font-family: "Outfit", sans-serif;
  }
+ #text2{
+    position: fixed;
+    bottom: 85px;
+    right: 97px;
+    margin: 0;
+    background-color: rgba(red, green, blue, alpha);
+    color: rgb(54, 52, 52);
+    font-size: 24px;
+    border: radius 8px; 
+    font-family: "Outfit", sans-serif;
+     }
+     h1{
+        color: rgb(42, 42, 42)
+     }
 
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 font-family: "Outfit", sans-serif;
